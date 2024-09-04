@@ -1,5 +1,5 @@
 <?php
-include("./includes/connect.php");
+// include("./includes/connect.php");
 
 if(isset($_POST['login'])){
    $NIC_num = $_POST['NIC_num'];
